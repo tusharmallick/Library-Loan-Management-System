@@ -1,4 +1,5 @@
-# Library-Loan-Management-System
+````markdown
+# Library Loan Management System
 
 A console-based **Library Loan Management System** developed in **Java using JDBC and Apache Derby Database**.  
 This project demonstrates:
