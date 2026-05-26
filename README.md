@@ -1,4 +1,3 @@
-````markdown
 # Library Loan Management System
 
 A console-based **Library Loan Management System** developed in **Java using JDBC and Apache Derby Database**.  
@@ -89,7 +88,7 @@ Compares:
 src/
 └── com/dbms/lab/
     └── mini_project_1.java
-````
+```
 
 ---
 
@@ -98,7 +97,7 @@ src/
 ## Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Library-Loan-Management-System.git
+git clone https://github.com/tusharmallick/Library-Loan-Management-System.git
 ```
 
 ## Step 2: Open in Eclipse
@@ -234,6 +233,3 @@ B.Tech CSE (AI/ML)
 # License
 
 This project is developed for educational and academic purposes.
-
-```
-```
